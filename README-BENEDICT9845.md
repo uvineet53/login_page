@@ -1,0 +1,3 @@
+The login screen we are going to build here is simple in its visual aspects. First there is a widget for the company/organization/app name. Then about the screen itself, Sign in. Now, we have two text fields, user name and password, to get login/sign-in credentials from user. Then we have a FlatButton for the Forgot Password. After that, there is the Login button. If the user does not have an account, there should be a provision for the Sign-up process, hence a Sign-up FlatButton.
+
+Following is the contents of main.dart file. If you create a basic Flutter application and replace the contents of main.dart with the following file, you should see UI as shown in the screenshot attached after this code.
